@@ -1,0 +1,13 @@
+Number of Monte Carlo Cycles: 	 100000
+Number of MC cycles skipped before measurements: 	 10000 
+Lattice size, L = 	 10 
+Number of different Temperature Measurements:Hello 
+Hello 
+Hello 
+Hello 
+Hello 
+Hello 
+Hello 
+Hello 
+Hello 
+Hello 
