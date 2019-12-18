@@ -7,5 +7,5 @@ The Code and analysis is found in the file Project5Notebook.ipynb
 
 The report is Report_Project5.pdf
 
-In the folder Figure are all figures used in the report
+In the folder Figures are all figures used in the report
 
